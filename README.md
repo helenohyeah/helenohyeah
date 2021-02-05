@@ -5,10 +5,6 @@ I'm [Helen](https://helenouyang.me), a former-Product Manager turned Full Stack 
 <a href="https://www.linkedin.com/in/helenouyang/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://angel.co/u/helen-ouyang"><img alt="AngelList" src="https://img.shields.io/badge/-AngelList-000000?style=flat&logo=angellist&logoColor=white" /></a>
 
-## Currently
-- 🔭 I’m working on https://helenouyang.me
-- 🌱 I’m working through Advent of Code
-
 ## 💻 Tools I use
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img alt="Css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
